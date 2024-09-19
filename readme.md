@@ -1,6 +1,6 @@
 # Mi Proyecto de Jetpack Compose
 
-Este es un proyecto de ejemplo en Android utilizando Jetpack Compose. La aplicación muestra una lista de publicaciones que se cargan desde un repositorio simulado. La aplicación incluye una pantalla de carga, manejo de errores, y una funcionalidad de refresco para actualizar los datos.
+Este es un proyecto de ejemplo en Android utilizando Jetpack Compose. La aplicación muestra una lista de publicaciones que se cargan desde un repositorio simulado. La aplicación incluye una pantalla de carga, manejo de errores, y una funcionalidad de refresh para actualizar los datos.
 
 ## Características
 
@@ -36,7 +36,6 @@ Este es un proyecto de ejemplo en Android utilizando Jetpack Compose. La aplicac
 - **MainActivity.kt**: Actividad principal que gestiona la navegación y la UI.
 - **PostViewModel.kt**: ViewModel que maneja la lógica de negocio y la carga de datos.
 - **PostRepository.kt**: Repositorio simulado que devuelve una lista de publicaciones.
-- **composables/**: Carpeta que contiene todos los componentes UI composables.
 - **model/Post.kt**: Modelo de datos para las publicaciones.
 
 ## Dependencias Clave
